@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="460" height="300" src="[https://picsum.photos/460/300](https://64.media.tumblr.com/4e42382b5184e0135671f16b46cc926c/tumblr_oktnj58p301qescc8o2_640.gifv)">
-</p>
+<img align="center" alt="red_panda" src="https://64.media.tumblr.com/4e42382b5184e0135671f16b46cc926c/tumblr_oktnj58p301qescc8o2_640.gifv">
 
 <h1 align="center">Hi 👋, I'm Romina.</h1>
 <h3 align="center">A beginner coder</h3>
