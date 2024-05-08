@@ -6,7 +6,7 @@
 
 <section>
   <h1 align="center">Hi 👋, I'm Romina.</h1>
-  <h3 align="center">Full stack web developer in progress</h3> 
+  <h3 align="center"> Junior Fullstack Developer</h3> 
   <img align="left" width="100px" height="100px" alt="sparks gif" src="https://media1.giphy.com/media/LFhufPNdTmlKynSCu5/giphy.gif?cid=6c09b952t7fktwjmdp24rsj6n4ku6yss282ijro3hck169ke&ep=v1_stickers_related&rid=giphy.gif&ct=s">
   <img align="right" width="100px" height="100px" alt="sparks gif" src="https://media1.giphy.com/media/LFhufPNdTmlKynSCu5/giphy.gif?cid=6c09b952t7fktwjmdp24rsj6n4ku6yss282ijro3hck169ke&ep=v1_stickers_related&rid=giphy.gif&ct=s">
   <hr>
@@ -21,7 +21,8 @@
 </section>
 
 
-
+# My skills
+HTML | CSS | SCSS | JavaScript | TypeScript | Vue | Pinnia | Vue Router | Vite | Vitest | API | REST | Axios | Maven | JAVA 21 | Spring | Spring Boot | Hibernate | JPA | React | SQL Server | MySQL | MySQLWorkbench | Docker | Github | Git | AWS | Visual Studio Code | Figma | Jira | Trello | Confluence | Clean Code | SOLID
 
 
 <div align="center">
@@ -30,8 +31,7 @@
     <img width="30px" height="20px" alt="email logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png">
     <b>ruizdiazsanchezromina@gmail.com</b>
   </p>
-  <h3 align="center">My stack:</h3>
-  <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>   </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+ 
 </div>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rominaruizdiaz&show_icons=true&locale=en" alt="rominaruizdiaz"></p>
