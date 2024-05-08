@@ -14,9 +14,9 @@
 
 <section>
 <p align="center">🔭 I’m currently working on <b>my developer skills</b> </p>
-<p align="center">🌱 I’m currently learning <b>Git-hub</b> </p>
-<p align="center">💬 Ask me about <b>CSS and HTML.</b> </p>
-<p align="center">⚡ Fun fact <b>I started learning web development at Factoría F5.</b> </p>
+<p align="center">🌱 I’m currently learning <b>React.js</b> </p>
+<p align="center">💬 Ask me about <b>web design.</b> </p>
+<p align="center">⚡ Fun fact <b>I love practicing boxing in my free time</b> </p>
 <hr>
 </section>
 
